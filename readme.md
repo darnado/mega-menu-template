@@ -16,7 +16,7 @@ The template features a combination of grid and flex containers to create a simp
 4. Replace the placeholder images for your own images or icons. It's preferable to use square images 40px wide and high.
 5. Save the changes.
 
-Check out my [YouTube channel](https://www.youtube.com/@CaledrosForge) for tutorials on how to use the template.
+Check out the following [YouTube video](https://www.youtube.com/watch?v=Lmhbk9J7D-g) for instructions on how to use the template.
 
 ## :scroll: License
 
