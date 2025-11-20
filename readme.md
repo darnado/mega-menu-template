@@ -12,7 +12,7 @@ The template features a combination of grid and flex containers to create a simp
 
 1. Install and activate the [Caledros Basic Blocks plugin](https://wordpress.org/plugins/caledros-basic-blocks/)
 2. Create and edit a Mega Menu Template part.
-3. Copy and paste the contents of the "mega-menu-template.html" file using the code editor view. Then change to the visual editor.
+3. Copy and paste the contents of the [mega-menu-template.html](https://github.com/darnado/mega-menu-template/blob/main/mega-menu-template.html) file using the code editor view. Then change to the visual editor.
 4. Replace the placeholder images for your own images or icons. It's preferable to use square images 40px wide and high.
 5. Save the changes.
 
